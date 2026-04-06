@@ -198,4 +198,21 @@
 
 ---
 
-## 📂 Repository Structure
+---
+
+## 📈 Progress
+
+![Progress](https://img.shields.io/badge/Progress-84%2F90%20Days-blue?style=flat)
+![Projects](https://img.shields.io/badge/Projects-25%2B-green?style=flat)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurabkumarjha)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](shaurabkumarjha@gmail.com)
+
+---
+
+> *"Built in public. Every commit is a step forward."* 🚀
