@@ -202,7 +202,7 @@
 
 ## 📈 Progress
 
-![Progress](https://img.shields.io/badge/Progress-2%2F90%20Days-blue?style=flat)
+![Progress](https://img.shields.io/badge/Progress-3%2F90%20Days-blue?style=flat)
 ![Projects](https://img.shields.io/badge/Projects-25%2B-green?style=flat)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)
 
