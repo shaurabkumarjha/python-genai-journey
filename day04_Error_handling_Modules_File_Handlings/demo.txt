@@ -1,0 +1,4 @@
+Line 1: Hello, Python!
+Line 2: File I/O is powerful.
+Line 3: Always use context managers.
+Line 4: Appended later.
